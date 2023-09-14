@@ -1,4 +1,7 @@
-# 😄 Betza Profile | Developer focus on Backend and Blockchain
+# 😄 Betza Profile 
+
+## Developer focus on Backend and Blockchain
+
 
 ## Introduction
 Hello! I am a Mechatronic Engineer who fell for programming. I work as a backend developer with a strong focus on blockchain technologies. I have experience working with JavaScript, TypeScript, and Python, and I am passionate about building secure and scalable blockchain solutions.
